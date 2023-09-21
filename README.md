@@ -3,4 +3,4 @@ Student ID : 101452662 , Name  : Darsh Bhavinkumar Shah
 
 ## Screenshots
 
-![Before Sorting](/Before Sorting.png)
+![Before Sorting](/Before Sorting.png?raw=true)
