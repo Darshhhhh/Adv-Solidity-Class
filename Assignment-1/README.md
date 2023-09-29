@@ -5,4 +5,4 @@ Student ID : 101452662 , Name  : Darsh Bhavinkumar Shah
 ![DeployedContract](https://github.com/Darshhhhh/Adv-Solidity-Class/blob/main/Assignment-1/DeployedContract.png)
 ![DeployedContract](https://github.com/Darshhhhh/Adv-Solidity-Class/blob/main/Assignment-1/DeployedContract2.png)
 ![TestCase](https://github.com/Darshhhhh/Adv-Solidity-Class/blob/main/Assignment-1/Test-SS.png)
-![TransferSS](https://github.com/Darshhhhh/Adv-Solidity-Class/blob/main/Assignment-1/Transfer.png)
+![TransferSS](https://github.com/Darshhhhh/Adv-Solidity-Class/blob/main/Assignment-1/Error-Script.png)
